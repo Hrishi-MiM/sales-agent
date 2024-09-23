@@ -1,0 +1,19 @@
+# OpenAI API Key
+# This is required to connect to OpenAI's GPT models for generating responses.
+OPENAI_API_KEY="your_openai_api_key"
+
+# Twilio Account SID
+# Your Twilio account's unique identifier. This is used for authentication with Twilio's API.
+TWILIO_ACCOUNT_SID="your_twilio_account_sid"
+
+# Twilio Auth Token
+# The authentication token for your Twilio account, used along with the Account SID for making requests.
+TWILIO_AUTH_TOKEN="your_twilio_auth_token"
+
+# Twilio Phone Number
+# The phone number provided by Twilio that will be used to make outbound calls.
+TWILIO_PHONE_NUMBER="your_twilio_phone_number"
+
+# Eleven Labs API Key
+# API key for Eleven Labs, used to generate voice responses from text if needed.
+ELEVENLABS_API_KEY="your_elevenlabs_api_key"
